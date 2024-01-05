@@ -1,0 +1,21 @@
+{
+  "name": "node-quiz",
+  "version": "0.0.1",
+  "description": "Project for the node testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bins/www.js",
+    "test": "test"
+  },
+  "keywords": [
+    "testing",
+    "node"
+  ],
+  "author": "ming zhe",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
